@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(162, 162, 162);
+}
+
+div h1 {
+    font-family: 'Hedvig Letters Serif', serif;
+    ;
+    color: white;
+    padding: 8px;
+    position: relative;
+    margin-left: 20%;
+    font-size: 32px;
+    width: 1600px;
+}
+span{
+    color: red;
+}
+
+.address1 {
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    height: 20px;
+    width: 250px;
+    margin-left: 45%;
+    bottom: 90%;
+
+}
+
+.time {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 87%;
+    margin-left: 70%;
+}
+
+ul {
+    background-color: white;
+    list-style-type: none;
+    width: 900px;
+    position: relative;
+    margin-left: 20%;
+    border-radius: 30px;
+
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+img {
+    height: 80vh;
+    width: 28%;
+    margin-left: 50%;
+    position: absolute;
+    bottom: 1px;
+    z-index: -1;
+}
+
+.home {
+    color: red;
+}
+
+.Welcome {
+    color: red;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 21%;
+    top: 42%;
+}
+
+.Bring {
+    position: absolute;
+    top: 42%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.Amazing{
+    position: absolute;
+    color: white;
+    top: 65%;
+    left: 21%;
+}
+button{
+    background-color: rgb(216, 78, 78);
+    border-radius: 20px 0px 20px 0px;
+    position: absolute;
+    top: 75%;
+    left:20% ;
+}
+.learn{
+    color: white;
+}
+.fa-solid{
+    color: orange;
+    position: absolute;
+    left: 43%;
+    bottom: 90%; 
+    font-size: 40px;   
+}
+.icon2{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    left: 67%;
+    bottom: 89%;
+}
+.facebook{
+    color: blue;
+    margin-left: 180px;
+}
+.twitter{
+    color: green;
+}
+.linked{
+    color: orangered;
+    display: grid;
+}
